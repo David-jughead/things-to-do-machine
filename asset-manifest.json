@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/things-to-do-machine/static/css/main.bd04206e.css",
+    "main.js": "/things-to-do-machine/static/js/main.0017605d.js",
+    "index.html": "/things-to-do-machine/index.html",
+    "main.bd04206e.css.map": "/things-to-do-machine/static/css/main.bd04206e.css.map",
+    "main.0017605d.js.map": "/things-to-do-machine/static/js/main.0017605d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd04206e.css",
+    "static/js/main.0017605d.js"
+  ]
+}
